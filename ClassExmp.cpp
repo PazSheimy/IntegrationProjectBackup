@@ -1,0 +1,2 @@
+#include "ClassExmp.h"
+//implementation
